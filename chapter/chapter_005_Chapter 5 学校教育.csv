@@ -1,0 +1,400 @@
+word,meaning,sort,title,phonetic
+education,n.教育；教育学,5,Chapter 5 学校教育,/ˌedʒuˈkeɪʃ(ə)n/
+primary,adj.主要的；最初的；小学教育的,5,Chapter 5 学校教育,/ˈpraɪməri/
+secondary,adj.中等教育的；次要的,5,Chapter 5 学校教育,/ˈsekənd(ə)ri/
+university,n.(综合性)大学,5,Chapter 5 学校教育,/ˌjuːnɪˈvɜːsəti/
+college,n.学院；大学,5,Chapter 5 学校教育,/ˈkɒlɪdʒ/
+institute,n.研究所，学院,5,Chapter 5 学校教育,/ˈɪnstɪtjuːt/
+academy,n. 专科院校；｛美国的｝私立中学；研究院，学会,5,Chapter 5 学校教育,/əˈkædəmi/
+learn,v.学习；得知,5,Chapter 5 学校教育,/lɜːn/
+study,v.学习；研究 n.学习；研究,5,Chapter 5 学校教育,/ˈstʌdi/
+acquire,v.获得(技能、知识等)；购得,5,Chapter 5 学校教育,/əˈkwaɪə(r)/
+knowledge,n.知识，学识；知悉,5,Chapter 5 学校教育,/ˈnɒlɪdʒ/
+expertise,n.专门知识，专门技能,5,Chapter 5 学校教育,/ˌekspɜːˈtiːz/
+novice,n.新手,5,Chapter 5 学校教育,/ˈnɒvɪs/
+recruit,V.吸收(新成员),5,Chapter 5 学校教育,/rɪˈkruːt/
+literate,adj.有读写能力的,5,Chapter 5 学校教育,/ˈlɪtərət/
+illiteracy,n.文盲,5,Chapter 5 学校教育,/ɪˈlɪtərəsi/
+numerate,adj.识数的，有计算能力的,5,Chapter 5 学校教育,/ˈnjuːmərət/
+problem,n.习题；问题,5,Chapter 5 学校教育,/ˈprɒbləm/
+issue,n.重要问题；发行 v.公布，发出,5,Chapter 5 学校教育,/ˈɪʃuː/
+affair,n. 事件；［~s ］公共事务，政治事务,5,Chapter 5 学校教育,/əˈfeə(r)/
+controversial,adj.有争议的,5,Chapter 5 学校教育,/ˌkɒntrəˈvɜːʃ(ə)l/
+puzzle,n.难题；谜 v.使迷惑,5,Chapter 5 学校教育,/ˈpʌz(ə)l/
+riddle,n.谜，谜语,5,Chapter 5 学校教育,/ˈrɪd(ə)l/
+obscure,adj.难以理解的,5,Chapter 5 学校教育,/əbˈskjʊə(r)/
+instil,v.逐渐灌输 (=instill) ,5,Chapter 5 学校教育,/ɪnˈstɪl/
+cram,V.把……塞进；(为应考)临时死记硬背,5,Chapter 5 学校教育,/kræm/
+emphasise,"v.强调,着重 (=emphasize) ",5,Chapter 5 学校教育,/ˈemfəsaɪz/
+enhance,v.提高，增强,5,Chapter 5 学校教育,/ɪnˈhɑːns/
+enable,V. 使能够,5,Chapter 5 学校教育,/ɪˈneɪb(ə)l/
+inspire,v.鼓舞；给……灵感,5,Chapter 5 学校教育,/ɪnˈspaɪə(r)/
+motive,n.动机，(行动的)缘由,5,Chapter 5 学校教育,/ˈməʊtɪv/
+motivate,v.激发，驱使,5,Chapter 5 学校教育,/ˈməʊtɪveɪt/
+stimulate,v.刺激；激励,5,Chapter 5 学校教育,/ˈstɪmjuleɪt/
+spur,v.鞭策，刺激n.马刺；刺激,5,Chapter 5 学校教育,/spɜː(r)/
+impetus,n.推动，促进；动量；惯性,5,Chapter 5 学校教育,/ˈɪmpɪtəs/
+indulge,v.迁就，放任；沉湎；让……享受一下,5,Chapter 5 学校教育,/ɪnˈdʌldʒ/
+spoil,v.宠坏，溺爱；破坏，糟蹋,5,Chapter 5 学校教育,/spɔɪl/
+abuse,v. 滥用；虐待 n. 滥用；虐待,5,Chapter 5 学校教育,/əˈbjuːs/
+intelligent,adj.聪明的，有才智的,5,Chapter 5 学校教育,/ɪnˈtelɪdʒənt/
+clever,adj.聪明的；精明的,5,Chapter 5 学校教育,/ˈklevə(r)/
+smart,adj.聪明的；智能的,5,Chapter 5 学校教育,/smɑːt/
+all-round,adj.有多方面才能的，全面的 (=all-around) ,5,Chapter 5 学校教育,/ˌɔːl ˈraʊnd/
+genius,n.天才人物；天赋,5,Chapter 5 学校教育,/ˈdʒiːniəs/
+elite,n.精英人物；精华；上层人士,5,Chapter 5 学校教育,/eɪˈliːt; ɪˈliːt/
+idiot,n.白痴，傻瓜,5,Chapter 5 学校教育,/ˈɪdiət/
+wisdom,n.智慧；学问,5,Chapter 5 学校教育,/ˈwɪzdəm/
+wit,n.风趣的人；机智，风趣；智慧,5,Chapter 5 学校教育,/wɪt/
+aptitude,n.天生的才能，资质,5,Chapter 5 学校教育,/ˈæptɪtjuːd/
+capable,adj.有能力的，有才能的,5,Chapter 5 学校教育,/ˈkeɪpəb(ə)l/
+excellent,adj.优秀的，杰岀的,5,Chapter 5 学校教育,/ˈeksələnt/
+outstanding,adj.突出的，杰出的,5,Chapter 5 学校教育,/aʊtˈstændɪŋ/
+brilliant,adj.光辉的；聪颖的；(光线等)明亮的；非常好的,5,Chapter 5 学校教育,/ˈbrɪliənt/
+skill,n. 技巧，技能,5,Chapter 5 学校教育,/skɪl/
+graduate,n.大学毕业生；［美］毕业生  v. 大学毕业；［美］中学毕业,5,Chapter 5 学校教育,/ˈɡrædʒuət; ˈɡrædʒuˌeɪt/
+campus,n. (大专院校的｝校园,5,Chapter 5 学校教育,/ˈkæmpəs/
+dining hall,n. 食堂,5,Chapter 5 学校教育,/ˈdaɪnɪŋ hɔːl/
+prestige,n.威望，声望,5,Chapter 5 学校教育,/preˈstiːʒ/
+reputation,n.名誉，声誉,5,Chapter 5 学校教育,/ˌrepjuˈteɪʃ(ə)n/
+eminent,adj.著名的；杰出的,5,Chapter 5 学校教育,/ˈemɪnənt/
+notorious,adj.声名狼藉的,5,Chapter 5 学校教育,/nəʊˈtɔːriəs/
+esteem,v.尊重，尊敬,5,Chapter 5 学校教育,/ɪˈstiːm/
+respect,n.尊敬，敬重 v.尊敬，敬重,5,Chapter 5 学校教育,/rɪˈspekt/
+diligent,adj.勤勉的，勤奋的,5,Chapter 5 学校教育,/ˈdɪlɪdʒənt/
+painstaking,adj.极其仔细的，辛苦的,5,Chapter 5 学校教育,/ˈpeɪnzteɪkɪŋ/
+approach,n.方法v.接近,5,Chapter 5 学校教育,/əˈprəʊtʃ/
+scheme,n.计划，方案；阴谋v.谋划,5,Chapter 5 学校教育,/skiːm/
+headmaster,n.［英］男校长,5,Chapter 5 学校教育,/ˌhedˈmɑːstə(r)/
+principal,n.［美］(中小学)校长；［英］大学校长，学院院长adj.首要的,5,Chapter 5 学校教育,/ˈprɪnsəp(ə)l/
+dean,n.(大学的)学院院长，系主任,5,Chapter 5 学校教育,/diːn/
+faculty,n.(大学的)系，院；［美］(大学的)全体教员,5,Chapter 5 学校教育,/ˈfæk(ə)lti/
+professor,n.教授,5,Chapter 5 学校教育,/prəˈfesə(r)/
+scholar,n.学者,5,Chapter 5 学校教育,/ˈskɒlə(r)/
+scientist,n.科学家,5,Chapter 5 学校教育,/ˈsaɪəntɪst/
+mentor,n.导师；顾问,5,Chapter 5 学校教育,/ˈmentɔː(r)/
+tutor,n.家庭教师；(英国大学或学院中的)导师,5,Chapter 5 学校教育,/ˈtjuːtə(r)/
+lecturer,n.［英］(大学的)讲师,5,Chapter 5 学校教育,/ˈlektʃərə(r)/
+assistant,n.助手，助理,5,Chapter 5 学校教育,/əˈsɪstənt/
+candidate,n.候选人；求职者；［英］考生,5,Chapter 5 学校教育,/ˈkændɪdət/
+degree,n.学位；学位课程；程度,5,Chapter 5 学校教育,/dɪˈɡriː/
+qualify,v. 使具备资格；使奋权,5,Chapter 5 学校教育,/ˈkwɒlɪfaɪ/
+certify,v.证明；颁发专业合格证书,5,Chapter 5 学校教育,/ˈsɜːtɪfaɪ/
+license,(=licence) n.执照，许可证,5,Chapter 5 学校教育,/ˈlaɪs(ə)ns/
+permit,v. 允许，准许；n. 许可证,5,Chapter 5 学校教育,/pəˈmɪt/
+diploma,n.毕业文凭,5,Chapter 5 学校教育,/dɪˈpləʊmə/
+diplomat,n.外交官；善于交际的人,5,Chapter 5 学校教育,/ˈdɪpləmæt/
+ambassador,n.大使,5,Chapter 5 学校教育,/æmˈbæsədə(r)/
+pupil,n.小学生；瞳孔,5,Chapter 5 学校教育,/ˈpjuːp(ə)l/
+ceremony,n.典礼；礼节,5,Chapter 5 学校教育,/ˈserəməni/
+bachelor,n.学士；单身汉,5,Chapter 5 学校教育,/ˈbætʃələ(r)/
+master,n.硕士；大师v.精通；控制,5,Chapter 5 学校教育,/ˈmɑːstə(r)/
+doctor,n.博士；医生,5,Chapter 5 学校教育,/ˈdɒktə(r)/
+fresher,n.［英］(大学)一年级新生,5,Chapter 5 学校教育,/ˈfreʃə(r)/
+sophomore,n.［美］(大学或高中)二年级学生,5,Chapter 5 学校教育,/ˈsɒfəmɔː(r)/
+junior,n.［美］(大学或高中)三年级学生；较年幼者adj.成人的；级别(或地位)较低的,5,Chapter 5 学校教育,/ˈdʒuːniə(r)/
+senior,n.［美］(大学或高中)毕业班学生；较年长者adj.成人的；级别(或地位)高的,5,Chapter 5 学校教育,/ˈsiːniə(r)/
+alumni,n. ［alumnus的复数形式］毕业生，校友,5,Chapter 5 学校教育,/əˈlʌmnaɪ/
+orientation,n.(学前、岗前等的)情况介绍，迎新会；方向,5,Chapter 5 学校教育,/ˌɔːriənˈteɪʃ(ə)n/
+platform,n.平台；讲台,5,Chapter 5 学校教育,/ˈplætfɔːm/
+coed,(=co-educational) adj.男女同校的n.(男女同校的大学中的)女生,5,Chapter 5 学校教育,/ˌkəʊˈed/
+register,v.登记，注册n.登记表，注册簿,5,Chapter 5 学校教育,/ˈredʒɪstə(r)/
+roster,n.花名册，登记表；执勤表,5,Chapter 5 学校教育,/ˈrɒstə(r)/
+enrol, v.登记；注册(课程)；(使)加入 (=enroll),5,Chapter 5 学校教育,/ɪnˈrəʊl/
+matriculation,n.注册入大学,5,Chapter 5 学校教育,/məˌtrɪkjuˈleɪʃn/
+bibliography,n. 参考书目,5,Chapter 5 学校教育,/ˌbɪblɪˈɒɡrəfɪ/
+content,n. 内容；目录；含量 adj. 满足的,5,Chapter 5 学校教育,/ˈkɒntent; kənˈtent/
+object,n. 物体；目标 v.反对,5,Chapter 5 学校教育,/ˈɒbdʒɪkt; əbˈdʒekt/
+accommodation,n.住处；食宿招待,5,Chapter 5 学校教育,/əˌkɒməˈdeɪʃ(ə)n/
+dorm,n.宿舍,5,Chapter 5 学校教育,/dɔːm/
+canteen,n.水壶；［英］食堂,5,Chapter 5 学校教育,/kænˈtiːn/
+laboratory,(=lab) n.实验室，研究室,5,Chapter 5 学校教育,/ləˈbɒrətri/
+experiment,n.实验；试验,5,Chapter 5 学校教育,/ɪkˈsperɪmənt/
+data,n. ［datum的复数形式］数据,5,Chapter 5 学校教育,/ˈdeɪtə; ˈdɑːtə/
+quantity,n.数量,5,Chapter 5 学校教育,/ˈkwɒntətɪ/
+quality,n.质量,5,Chapter 5 学校教育,/ˈkwɒlətɪ/
+library,n.图书馆；(书、唱片等)个人收藏,5,Chapter 5 学校教育,/ˈlaɪbrərɪ/
+literature,n.文学；文学作品；文献,5,Chapter 5 学校教育,/ˈlɪtrətʃə(r); ˈlɪtərətʃə/
+article,n.文章,5,Chapter 5 学校教育,/ˈɑːtɪk(ə)l/
+author,n.作者，作家,5,Chapter 5 学校教育,/ˈɔːθə(r)/
+tale,n.故事，传说,5,Chapter 5 学校教育,/teɪl/
+fiction,n.小说；虚构，杜撰,5,Chapter 5 学校教育,/ˈfɪkʃ(ə)n/
+story,n.故事，小说；(尤指口头的)叙述,5,Chapter 5 学校教育,/ˈstɔːri/
+diary,n.日记，日记簿,5,Chapter 5 学校教育,/ˈdaɪəri/
+poetry,n.诗，诗歌，诗作,5,Chapter 5 学校教育,/ˈpəʊətri/
+magazine,n.杂志，期刊,5,Chapter 5 学校教育,/ˌmæɡəˈziːn/
+journal,n.日报，周报；(尤指专门学科的)杂志；日志,5,Chapter 5 学校教育,/ˈdʒɜːn(ə)l/
+coverage,n.新闻报道；覆盖范围,5,Chapter 5 学校教育,/ˈkʌvərɪdʒ/
+encyclopedia,(=encyclopaedia) n.百科全书,5,Chapter 5 学校教育,/ɪnˌsaɪkləˈpiːdiə/
+biography,n.传记,5,Chapter 5 学校教育,/baɪˈɒɡrəfi/
+documentary,n.纪录片adj.纪录的,5,Chapter 5 学校教育,/ˌdɒkjuˈment(ə)ri/
+series,n.连续；一系列；系列节目,5,Chapter 5 学校教育,/ˈsɪəriːz/
+record,n.记录；履历,5,Chapter 5 学校教育,/ˈrekɔːd; rɪˈkɔːd/
+file,n.档案v.把……归档,5,Chapter 5 学校教育,/faɪl/
+profile,n.概述；人物简介；侧面轮廓,5,Chapter 5 学校教育,/ˈprəʊfaɪl/
+draft,n.草稿；汇票v.起草,5,Chapter 5 学校教育,/drɑːft/
+sketch,n.概略v.概述,5,Chapter 5 学校教育,/sketʃ/
+brochure,n.小册子,5,Chapter 5 学校教育,/ˈbrəʊʃə(r)/
+manual,n.使用手册，指南adj.手工的,5,Chapter 5 学校教育,/ˈmænjuəl/
+frame,n.(画、镜子等的)框架；眼镜框；构架,5,Chapter 5 学校教育,/freɪm/
+index,n.指数；指标；索引v.为……编索引,5,Chapter 5 学校教育,/ˈɪndeks/
+catalogue,(=catalog) n.目录,5,Chapter 5 学校教育,/ˈkætəlɒɡ/
+category,n.种类，类别，范畴,5,Chapter 5 学校教育,/ˈkætəɡəri/
+inventory,n.库存；详细目录,5,Chapter 5 学校教育,/ˈɪnvəntri/
+context,n.上下文，语境；背最，来龙去脉,5,Chapter 5 学校教育,/ˈkɒntekst/
+list,n. 一览表，目录v.列举；把……列表,5,Chapter 5 学校教育,/lɪst/
+chapter,n.(书等的)章；(人生或历史的)重要时期,5,Chapter 5 学校教育,/ˈtʃæptə(r)/
+volume,"n.(书)卷；体积,容积；音量",5,Chapter 5 学校教育,/ˈvɒljuːm/
+reel,v. 眩晕，混乱,5,Chapter 5 学校教育,/riːl/
+subject,n.科目；主题；实验对象,5,Chapter 5 学校教育,/ˈsʌbdʒɪkt/
+major,n.［美］主修科目，专业v.［美］主修adj.主要的,5,Chapter 5 学校教育,/ˈmeɪdʒə(r)/
+minor,n.［美］辅修科目adj.不严重的,5,Chapter 5 学校教育,/ˈmaɪnə(r)/
+sociology,n. 社会学,5,Chapter 5 学校教育,/ˌsəʊsiˈɒlədʒi/
+politics,n.政治学；政治；政治事务,5,Chapter 5 学校教育,/ˈpɒlətɪks/
+economics,n.经济学,5,Chapter 5 学校教育,/ˌiːkəˈnɒmɪks/
+marketing,n.市场营销,5,Chapter 5 学校教育,/ˈmɑːkɪtɪŋ/
+accounting,n.会计,5,Chapter 5 学校教育,/əˈkaʊntɪŋ/
+audit,n.审计v.旁听；审计,5,Chapter 5 学校教育,/ˈɔːdɪt/
+statistics,n.统计学,5,Chapter 5 学校教育,/stəˈtɪstɪks/
+psychology,n. 心理学；心理特征,5,Chapter 5 学校教育,/saɪˈkɒlədʒi/
+philosophy,n.哲学,5,Chapter 5 学校教育,/fəˈlɒsəfi/
+logic,n.逻辑；逻辑学,5,Chapter 5 学校教育,/ˈlɒdʒɪk/
+biology,n.生物学；生命机理,5,Chapter 5 学校教育,/baɪˈɒlədʒi/
+physics,n.物理学,5,Chapter 5 学校教育,/ˈfɪzɪks/
+chemistry,n.化学,5,Chapter 5 学校教育,/ˈkemɪstri/
+agriculture,n.农业；农学,5,Chapter 5 学校教育,/ˈæɡrɪkʌltʃə(r)/
+logistics,n.物流；后勤,5,Chapter 5 学校教育,/ləˈdʒɪstɪks/
+geography,n.地理学；地形，地势,5,Chapter 5 学校教育,/dʒiˈɒɡrəfi/
+history,n.历史；历史学,5,Chapter 5 学校教育,/ˈhɪstri; ˈhɪstəri/
+engineering,n.工程；工程学,5,Chapter 5 学校教育,/ˌendʒɪˈnɪərɪŋ/
+mechanics,n.力学；机械学,5,Chapter 5 学校教育,/məˈkænɪks/
+electronics,n.电子学；电子器件,5,Chapter 5 学校教育,/ɪˌlekˈtrɒnɪks/
+maths,(=mathematics) n.数学,5,Chapter 5 学校教育,/mæθs/
+arithmetic,n.算数,5,Chapter 5 学校教育,/əˈrɪθmətɪk/
+geometry,n.几何学,5,Chapter 5 学校教育,/dʒiˈɒmətri/
+algebra,n.代数学，代数,5,Chapter 5 学校教育,/ˈældʒɪbrə/
+calculus,n. 微积分；结石,5,Chapter 5 学校教育,/ˈkælkjələs/
+plus,prep.加上adj.正(数)的，在零以上的,5,Chapter 5 学校教育,/plʌs/
+sum,n.总数，总和；金额,5,Chapter 5 学校教育,/sʌm/
+total,adj.总的，全部的n.总数,5,Chapter 5 学校教育,/ˈtəʊt(ə)l/
+merger,n.合并，归并,5,Chapter 5 学校教育,/ˈmɜːdʒə(r)/
+equation,n.相等；平衡，综合体；方程式，等式,5,Chapter 5 学校教育,/ɪˈkweɪʒ(ə)n/
+identical,adj.同一的,5,Chapter 5 学校教育,/aɪˈdentɪk(ə)l/
+minus,adj.负的，零以下的prep.减(去),5,Chapter 5 学校教育,/ˈmaɪnəs/
+subtract,v.减去，减,5,Chapter 5 学校教育,/səbˈtrækt/
+multiply,v.乘，使相乘；(使)成倍增加；繁殖,5,Chapter 5 学校教育,/ˈmʌltɪplaɪ/
+divide,v.除以；除,5,Chapter 5 学校教育,/dɪˈvaɪd/
+dividend,n. 股息，红利,5,Chapter 5 学校教育,/ˈdɪvɪdend/
+remainder,n.余数；剩余部分,5,Chapter 5 学校教育,/rɪˈmeɪndə(r)/
+rational,adj.理性的；合理的,5,Chapter 5 学校教育,/ˈræʃ(ə)nəl/
+parameter,n. 参数；起限定作用的因素,5,Chapter 5 学校教育,/pəˈræmɪtə(r)/
+variable,n.变量；可变因素adj.易变的,5,Chapter 5 学校教育,/ˈveəriəb(ə)l/
+even,adj.均匀的；偶数的；相等的adv.甚至,5,Chapter 5 学校教育,/ˈiːv(ə)n/
+odd,adj.奇数的；古怪的,5,Chapter 5 学校教育,/ɒd/
+mean,n. 平均数，平均值；adj. 平均的,5,Chapter 5 学校教育,/miːn/
+double,adj.两倍的n.两倍数，两倍量v.(使)加倍,5,Chapter 5 学校教育,/ˈdʌb(ə)l/
+triple,adj.三倍的，三重的n.三倍数，三倍量v.(使)增至,5,Chapter 5 学校教育,/ˈtrɪp(ə)l/
+quadruple,adj.四倍的n.四倍v.(使)成四倍,5,Chapter 5 学校教育,/ˈkwɒdrʊp(ə)l/
+multiple,n.倍数adj.多样的，数量多的,5,Chapter 5 学校教育,/ˈmʌltɪp(ə)l/
+maximum,n.最大值，最大限度,5,Chapter 5 学校教育,/ˈmæksɪməm/
+minimum,n.最小值，最低限度,5,Chapter 5 学校教育,/ˈmɪnɪməm/
+approximately,adv.大约,5,Chapter 5 学校教育,/əˈprɒksɪmətli/
+chart,n.图，图表；海图,5,Chapter 5 学校教育,/tʃɑːt/
+graph,n.图，图表,5,Chapter 5 学校教育,/ɡrɑːf/
+diagram,n.图表；示意图，图解,5,Chapter 5 学校教育,/ˈdaɪəɡræm/
+table,n.表格；桌子,5,Chapter 5 学校教育,/ˈteɪb(ə)l/
+matrix,n.矩阵；铸模,5,Chapter 5 学校教育,/ˈmeɪtrɪks/
+decimal,adj. 小数的；十避位的 n. 小数,5,Chapter 5 学校教育,/ˈdesɪm(ə)l/
+percent,( = percent ) n. ［单复数同形］百分之......,5,Chapter 5 学校教育,/pəˈsent/
+ferment,v. (使｝发酵；骚动   n. 酶；发酵；动乱,5,Chapter 5 学校教育,/fəˈment/
+formula,n. 公式，万程式；原则；配方；分子式,5,Chapter 5 学校教育,/ˈfɔːmjələ/
+rectangle,n.长方形，矩形,5,Chapter 5 学校教育,/ˈrektæŋɡl/
+cube,n.立方体；立方，三次幕；立方形的东西,5,Chapter 5 学校教育,/kjuːb/
+angle,n.角；角度,5,Chapter 5 学校教育,/ˈæŋɡ(ə)l/
+triangle,n.三角形；三角关系,5,Chapter 5 学校教育,/ˈtraɪæŋɡ(ə)l/
+diagonal,adj.斜纹的；对角线的n.对角线；斜纹织物,5,Chapter 5 学校教育,/daɪˈæɡən(ə)l/
+straight,adj.直的adv.笔直地；直接,5,Chapter 5 学校教育,/streɪt/
+circle,n.圆,5,Chapter 5 学校教育,/ˈsɜːk(ə)l/
+round,adj.圆的n.绕圈；一轮adv.环绕,5,Chapter 5 学校教育,/raʊnd/
+dot,n.点，圆点v.在......上打点,5,Chapter 5 学校教育,/dɒt/
+sphere,n.球体；球状物；范围，领域,5,Chapter 5 学校教育,/sfɪə(r)/
+cone,n.圆锥体；锥形物,5,Chapter 5 学校教育,/kəʊn/
+extent,n.广度，范围；程度,5,Chapter 5 学校教育,/ɪkˈstent/
+width,n.宽度,5,Chapter 5 学校教育,/wɪdθ; wɪtθ/
+length,n.长度,5,Chapter 5 学校教育,/leŋkθ; leŋθ/
+proportion,n.比例,5,Chapter 5 学校教育,/prəˈpɔːʃ(ə)n/
+rate,n.比率，率；速度,5,Chapter 5 学校教育,/reɪt/
+ratio,n.比(率),5,Chapter 5 学校教育,/ˈreɪʃiəʊ/
+fraction,n.分数；小部分；片断,5,Chapter 5 学校教育,/ˈfrækʃn/
+scale,n.刻度；规模；［~s］天平；鳞v.攀登,5,Chapter 5 学校教育,/skeɪl/
+ounce,n.盎司；少量,5,Chapter 5 学校教育,/aʊns/
+density,n.密度；浓度,5,Chapter 5 学校教育,/ˈdensəti/
+Fahrenheit,adj.华氏温标的,5,Chapter 5 学校教育,/ˈfærənhaɪt/
+mercury,n.水银，汞；［M~］水星,5,Chapter 5 学校教育,/ˈmɜːkjəri/
+battery,n.电池；(物品的)一组,5,Chapter 5 学校教育,/ˈbætri/
+volt,n.伏特(电压单位),5,Chapter 5 学校教育,/vəʊlt/
+radiate,v.辐射，发散；从中心向四周散开,5,Chapter 5 学校教育,/ˈreɪdieɪt/
+emit,v.散发(光、热、气等)；发出(声音),5,Chapter 5 学校教育,/iˈmɪt/
+transparent,adj.透明的；易看穿的,5,Chapter 5 学校教育,/trænsˈpærənt/
+hollow,adj.空(心)的，中空的,5,Chapter 5 学校教育,/ˈhɒləʊ/
+ozone,n.臭氧,5,Chapter 5 学校教育,/ˈəʊzəʊn/
+gravity,n.地球引力，重力,5,Chapter 5 学校教育,/ˈɡrævəti/
+friction,n.摩擦；摩擦力；不和，矛盾,5,Chapter 5 学校教育,/ˈfrɪkʃ(ə)n/
+eccentric,adj.不同圆心的；古怪的,5,Chapter 5 学校教育,/ɪkˈsentrɪk/
+displace,V.移动……的位置；取代，替代,5,Chapter 5 学校教育,/dɪsˈpleɪs/
+boil,v.煮沸，(使)沸腾n.沸点,5,Chapter 5 学校教育,/bɔɪl/
+melt,v.(使)融化；(使)熔化,5,Chapter 5 学校教育,/melt/
+dissolve,v.(使)溶解；解散,5,Chapter 5 学校教育,/dɪˈzɒlv/
+rust,v.(使)生锈n.锈，铁锈,5,Chapter 5 学校教育,/rʌst/
+dilute,v.冲淡，稀释adj.稀释了的；减弱了的,5,Chapter 5 学校教育,/daɪˈluːt/
+acid,n.酸adj.酸的；讽刺的，尖刻的,5,Chapter 5 学校教育,/ˈæsɪd/
+noxious,adj.有害的,5,Chapter 5 学校教育,/ˈnɒkʃəs/
+static,adj.静态的；静力的,5,Chapter 5 学校教育,/ˈstætɪk/
+inert,adj. 无生气的；惰性的，不活泼的,5,Chapter 5 学校教育,/ɪˈnɜːt/
+inherent,adj.内在的，固有的,5,Chapter 5 学校教育,/ɪnˈherənt/
+compulsory,adj. 强制的,5,Chapter 5 学校教育,/kəmˈpʌlsəri/
+component,n.成分，组成部分,5,Chapter 5 学校教育,/kəmˈpəʊnənt/
+compose,v.组成，构成；创作(音乐)；写,5,Chapter 5 学校教育,/kəmˈpəʊz/
+mixture,n.混合(物),5,Chapter 5 学校教育,/ˈmɪkstʃə(r)/
+blend,v.混合；(使)交融  n.混合物,5,Chapter 5 学校教育,/blend/
+theory,n.理论；学说,5,Chapter 5 学校教育,/ˈθɪəri/
+empirical,adj.以实验为依据的；经验主义的,5,Chapter 5 学校教育,/ɪmˈpɪrɪk(ə)l/
+practical,adj.实际的；有用的；务实的；心灵手巧的,5,Chapter 5 学校教育,/ˈpræktɪkl/
+doctrine,n.学说；教义；信条,5,Chapter 5 学校教育,/ˈdɒktrɪn/
+principle,n.原则；(科学)原理,5,Chapter 5 学校教育,/ˈprɪnsəp(ə)l/
+discipline,n.纪律；训练,5,Chapter 5 学校教育,/ˈdɪsəplɪn/
+term,n.期限；术语；［尤英］学期,5,Chapter 5 学校教育,/tɜːm/
+semester,n.学期,5,Chapter 5 学校教育,/sɪˈmestə(r)/
+timetable,n.时间表；课程表,5,Chapter 5 学校教育,/ˈtaɪmteɪb(ə)l/
+schedule,n.日程安排；［美］时刻表,5,Chapter 5 学校教育,/ˈʃedjuːl/
+deadline,n.截止日期,5,Chapter 5 学校教育,/ˈdedlaɪn/
+course,n.课程,5,Chapter 5 学校教育,/kɔːs/
+lesson,n.一堂课；课程；教训,5,Chapter 5 学校教育,/ˈles(ə)n/
+curriculum,n.课程；(学校等的)全部课程,5,Chapter 5 学校教育,/kəˈrɪkjələm/
+seminar,n.研讨会；讨论课,5,Chapter 5 学校教育,/ˈsemɪnɑː(r)/
+forum,n.讨论会，论坛；公开讨论的广场,5,Chapter 5 学校教育,/ˈfɔːrəm/
+syllabus,n.教学大纲,5,Chapter 5 学校教育,/ˈsɪləbəs/
+system,n.系统；体系，制度,5,Chapter 5 学校教育,/ˈsɪstəm/
+rudimentary,adj.基本的，粗浅的,5,Chapter 5 学校教育,/ˌruːdɪˈment(ə)ri/
+basic,adj.基本的，基础的,5,Chapter 5 学校教育,/ˈbeɪsɪk/
+fundamental,adj.基础的，基本的；根本的,5,Chapter 5 学校教育,/ˌfʌndəˈment(ə)l/
+elementary,adj.基本的；初级的,5,Chapter 5 学校教育,/ˌelɪˈmentri/
+profound,adj. (影响)深刻的，深远的；见解深刻的,5,Chapter 5 学校教育,/prəˈfaʊnd/
+superficial,adj.表面的，外表的；肤浅的,5,Chapter 5 学校教育,/ˌsuːpəˈfɪʃ(ə)l/
+surface,n.表面；地面；水面,5,Chapter 5 学校教育,/ˈsɜːfɪs/
+prerequisite,n.必备条件adj.必备的,5,Chapter 5 学校教育,/ˌpriːˈrekwəzɪt/
+selective,adj.选择性的,5,Chapter 5 学校教育,/sɪˈlektɪv/
+elective,adj.选举的；［美］选修的n. ［美］选修科目,5,Chapter 5 学校教育,/ɪˈlektɪv/
+assignment,n. (布置的)作业；｛分派的｝任务,5,Chapter 5 学校教育,/əˈsaɪnmənt/
+submit,v.服从；提交，呈递,5,Chapter 5 学校教育,/səbˈmɪt/
+preview,n.预习 v.预习,5,Chapter 5 学校教育,/ˈpriːvjuː/
+review,n.回顾；复习 v.回顾；复习,5,Chapter 5 学校教育,/rɪˈvjuː/
+revise,v.修订，修改,5,Chapter 5 学校教育,/rɪˈvaɪz/
+inspect,v.检查；检阅，视察,5,Chapter 5 学校教育,/ɪnˈspekt/
+consult,V.请教；查阅,5,Chapter 5 学校教育,/kənˈsʌlt/
+skim,v.掠过，擦边；略读,5,Chapter 5 学校教育,/skɪm/
+scan,v.细看；浏览；扫描n.扫描检查；浏览,5,Chapter 5 学校教育,/skæn/
+scrutinise,v.详细检查，仔细查看,5,Chapter 5 学校教育,/ˈskruːtɪnaɪz/
+recite,V.背诵，朗诵,5,Chapter 5 学校教育,/rɪˈsaɪt/
+dictate,v.让(某人)昕写；命令，强行规定,5,Chapter 5 学校教育,/dɪkˈteɪt/
+examination,n.考试；细查,5,Chapter 5 学校教育,/ɪɡˌzæmɪˈneɪʃ(ə)n/
+test,n.试验，检验  v.试验，检验,5,Chapter 5 学校教育,/test/
+quiz,n.智力竞赛；小测验,5,Chapter 5 学校教育,/kwɪz/
+presentation,n.陈述；表演，演出,5,Chapter 5 学校教育,/ˌprez(ə)nˈteɪʃ(ə)n/
+point,n. 点；要点,5,Chapter 5 学校教育,/pɔɪnt/
+abstract,n. 摘要 adj. 抽象的 v. 提取；把…抽象出,5,Chapter 5 学校教育,/ˈæbstrækt/
+postulate,v. 假定，假设/n. 假定，假设,5,Chapter 5 学校教育,/ˈpɒstʃəleɪt/
+detect,v. 察觉，发觉；侦察出,5,Chapter 5 学校教育,/dɪˈtekt/
+deliberate,v.深思熟虑，仔细考虑  adj.审慎的,5,Chapter 5 学校教育,/dɪˈlɪbərət/
+diagnose,v.判断；诊断,5,Chapter 5 学校教育,/ˈdaɪəɡnəʊz/
+plagiarise,v.抄袭,5,Chapter 5 学校教育,/ˈpleɪdʒəraɪz/
+copy,n.复制品 v.抄写；复制,5,Chapter 5 学校教育,/ˈkɒpɪ/
+print,v.打印 n. 印刷品；冲印出来的)照片,5,Chapter 5 学校教育,/prɪnt/
+thesis,n.论文,5,Chapter 5 学校教育,/ˈθiːsɪs/
+essay,n. (学生为某门课程写的)短文论说文；(关于政治、社会等的)小品文,5,Chapter 5 学校教育,/ˈeseɪ/
+paper,n.论文；纸,5,Chapter 5 学校教育,/ˈpeɪpə(r)/
+dissertation,n.专题论文，(尤指)学位论文,5,Chapter 5 学校教育,/ˌdɪsəˈteɪʃ(ə)n/
+project,n. (大中学学生的)专题研究；顶目，方案,5,Chapter 5 学校教育,/ˈprɒdʒekt; prəˈdʒekt/
+heading,n.标题；主题,5,Chapter 5 学校教育,/ˈhedɪŋ/
+outset,n.开端，开始,5,Chapter 5 学校教育,/ˈaʊtset/
+outline,n.概要；轮廓，略图,5,Chapter 5 学校教育,/ˈaʊtlaɪn/
+gist,n.主旨，要点,5,Chapter 5 学校教育,/dʒɪst/
+opinion,n.看法；评价,5,Chapter 5 学校教育,/əˈpɪnjən/
+introduce,v.介绍；引进,5,Chapter 5 学校教育,/ˌɪntrəˈdjuːs/
+reference,n.参考；推荐函；提及，涉及,5,Chapter 5 学校教育,/ˈrefrəns/
+cite,v.引用,5,Chapter 5 学校教育,/saɪt/
+elicit,v.引出；探出，套出,5,Chapter 5 学校教育,/ɪˈlɪsɪt/
+quote,v.引用，引述；报(价),5,Chapter 5 学校教育,/kwəʊt/
+extract,n.摘录,5,Chapter 5 学校教育,/ˈekstrækt; ɪkˈstrækt/
+summary,n.摘要，概要,5,Chapter 5 学校教育,/ˈsʌməri/
+assume,v.假定，设想；承担｛责任)；取得｛权力),5,Chapter 5 学校教育,/əˈsjuːm/
+presume,v.假定，假设；料想,5,Chapter 5 学校教育,/prɪˈzjuːm/
+suppose,v.假定；认为,5,Chapter 5 学校教育,/səˈpəʊz/
+hypothesis,n.假说，假设,5,Chapter 5 学校教育,/haɪˈpɒθəsɪs/
+speculate,v.推测,5,Chapter 5 学校教育,/ˈspekjuleɪt/
+predict,V.预测,5,Chapter 5 学校教育,/prɪˈdɪkt/
+perceive,v.感知，察觉，意识到,5,Chapter 5 学校教育,/pəˈsiːv/
+discern,v.觉察出；分辨出,5,Chapter 5 学校教育,/dɪˈsɜːn/
+recognise,( = recognize) v. 认识，辨认出,5,Chapter 5 学校教育,/ˈrekəɡnaɪz/
+conscious,adj.意识到的；奋知觉的,5,Chapter 5 学校教育,/ˈkɒnʃəs/
+reckon,v.估计；期望；认为,5,Chapter 5 学校教育,/ˈrekən/
+deem,v.认为，相信,5,Chapter 5 学校教育,/diːm/
+imply,v.暗指，意味着,5,Chapter 5 学校教育,/ɪmˈplaɪ/
+represent,V.代表；象征,5,Chapter 5 学校教育,/ˌreprɪˈzent/
+insist,v.坚持，坚决认为｛或主张、要求),5,Chapter 5 学校教育,/ɪnˈsɪst/
+persist,v.坚持不懈；持续存在,5,Chapter 5 学校教育,/pəˈsɪst/
+understand,v.懂得，理解,5,Chapter 5 学校教育,/ˌʌndəˈstænd/
+comprehend,v.理解，领悟,5,Chapter 5 学校教育,/ˌkɒmprɪˈhend/
+analyse,v.分析,5,Chapter 5 学校教育,/ˈænəlaɪz/
+infer,v.推断，推理,5,Chapter 5 学校教育,/ɪnˈfɜː(r)/
+deduce,v.演绎，推论,5,Chapter 5 学校教育,/dɪˈdjuːs/
+conclude,v.推断出，得出结论；(使)结束,5,Chapter 5 学校教育,/kənˈkluːd/
+analogy,n.类比；类推,5,Chapter 5 学校教育,/əˈnælədʒi/
+compare,v.比较；但......比作；比得上,5,Chapter 5 学校教育,/kəmˈpeə(r)/
+contrast,n.对比；明显的差异,5,Chapter 5 学校教育,/ˈkɒntrɑːst/
+survey,n. 民意调查  v. 对......避行民意调查,5,Chapter 5 学校教育,/ˈsɜːveɪ/
+apply,v. 应用，适用,5,Chapter 5 学校教育,/əˈplaɪ/
+fee,n. 酬金；费用,5,Chapter 5 学校教育,/fiː/
+overlap,V.与......复叠；(与......)部分相同,5,Chapter 5 学校教育,/ˌəʊvəˈlæp/
+contradiction,n.矛盾，不一致；反驳,5,Chapter 5 学校教育,/ˌkɒntrəˈdɪkʃ(ə)n/
+disagree,v.有分歧；不同意,5,Chapter 5 学校教育,/ˌdɪsəˈɡriː/
+differ,v.不同，相异,5,Chapter 5 学校教育,/ˈdɪfə(r)/
+diverse,adj.不一样的，多种多样的,5,Chapter 5 学校教育,/daɪˈvɜːs/
+nuance,n.细微差别,5,Chapter 5 学校教育,/ˈnjuːɑːns/
+inductive,adj.归纳的；诱导的,5,Chapter 5 学校教育,/ɪnˈdʌktɪv/
+detail,n.细节；(画等的)细部,5,Chapter 5 学校教育,/ˈdiːteɪl/
+thorough,adj.彻底的，详尽的,5,Chapter 5 学校教育,/ˈθʌrə/
+example,n.例子；榜样,5,Chapter 5 学校教育,/ɪɡˈzɑːmp(ə)l/
+instance,n.实例；情况，场合,5,Chapter 5 学校教育,/ˈɪnstəns/
+confirm,v.证实；确保，巩固,5,Chapter 5 学校教育,/kənˈfɜːm/
+demonstrate,v.示范，演示；证明,5,Chapter 5 学校教育,/ˈdemənstreɪt/
+illustrate,v. (用图等)说明；给(书)加插图(或图表),5,Chapter 5 学校教育,/ˈɪləstreɪt/
+manifest,v.显示，表明,5,Chapter 5 学校教育,/ˈmænɪfest/
+prove,v.证明；结果是,5,Chapter 5 学校教育,/pruːv/
+determine,v.决定；下定决心；查明,5,Chapter 5 学校教育,/dɪˈtɜːmɪn/
+decide,v.决定,5,Chapter 5 学校教育,/dɪˈsaɪd/
+resolve,v.决心，决定；｛使｝分解为；解决,5,Chapter 5 学校教育,/rɪˈzɒlv/
+research,n.调查；探索,5,Chapter 5 学校教育,/rɪˈsɜːtʃ/
+observe,v.观察，观测；注意到,5,Chapter 5 学校教育,/əbˈzɜːv/
+inquire,v.询问；调查,5,Chapter 5 学校教育,/ɪnˈkwaɪə(r)/
+query,n.疑问；询问 v.怀疑；询问,5,Chapter 5 学校教育,/ˈkwɪəri/
+questionnaire,n.调查表，调查问卷,5,Chapter 5 学校教育,/ˌkwestʃəˈneə(r)/
+accomplish,v.达到(目的)，完成,5,Chapter 5 学校教育,/əˈkʌmplɪʃ/
+attain,v.获得；达到,5,Chapter 5 学校教育,/əˈteɪn/
+credit,n.赊购；学分；信任,5,Chapter 5 学校教育,/ˈkredɪt/
+score,n.得分，成绩,5,Chapter 5 学校教育,/skɔː(r)/
+mark,v.分数；标记v.标志着；v.给......打分；在....上做记号,5,Chapter 5 学校教育,/mɑːk/
+grade,v.给......分等级n.等级；成绩等级,5,Chapter 5 学校教育,/ɡreɪd/
+rank,n.等级；排，列v.给····平级；位列,5,Chapter 5 学校教育,/ræŋk/
+row,n. (一)排，｛一)行,5,Chapter 5 学校教育,/rəʊ/
+queue,n.行列v.排队等候,5,Chapter 5 学校教育,/kjuː/
+grant,v.授予；准予；承认,5,Chapter 5 学校教育,/ɡrɑːnt/
+praise,n.赞美 v.赞扬,5,Chapter 5 学校教育,/preɪz/
+appreciate,v.赏识；感激；意识到,5,Chapter 5 学校教育,/əˈpriːʃieɪt/
+feedback,n.反馈，反应,5,Chapter 5 学校教育,/ˈfiːdbæk/
+overestimate,v.高估,5,Chapter 5 学校教育,/ˌəʊvərˈestɪmeɪt/
+fellowship,n.研究生奖学金,5,Chapter 5 学校教育,/ˈfeləʊʃɪp/
+scholarship,n.奖学金；学问，学识,5,Chapter 5 学校教育,/ˈskɒləʃɪp/
+reward,n.报答；黄金 v.报答,5,Chapter 5 学校教育,/rɪˈwɔːd/
+award,n.奖；奖品,5,Chapter 5 学校教育,/əˈwɔːd/
+prize,n.奖赏 v.珍视,5,Chapter 5 学校教育,/praɪz/

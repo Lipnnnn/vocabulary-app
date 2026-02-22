@@ -1,0 +1,390 @@
+word,meaning,sort,title,phonetic
+feel,v.感觉到，感知；触碰,21,Chapter 21 身心健康,/fiːl/
+mood,n.心情，情绪；气氛,21,Chapter 21 身心健康,/muːd/
+emotion,n.情绪，情感，感情,21,Chapter 21 身心健康,/ɪˈməʊʃ(ə)n/
+temper,n.坏脾气；情绪，心情  v.使缓和,21,Chapter 21 身心健康,/ˈtempə(r)/
+manner,n.举止；礼貌；方式；风俗,21,Chapter 21 身心健康,/ˈmænə(r)/
+attitude,n.态度，看法,21,Chapter 21 身心健康,/ˈætɪtjuːd/
+character,n.性格；特征；人物，角色,21,Chapter 21 身心健康,/ˈkærəktə(r)/
+personality,n.个性，人格,21,Chapter 21 身心健康,/ˌpɜːsəˈnælətɪ/
+trait,n.特性，特点,21,Chapter 21 身心健康,/treɪt/
+virtue,n.美德，德行；优点,21,Chapter 21 身心健康,/ˈvɜːtʃuː/
+feature,n.特征；面容的一部分  v.以......为特色,21,Chapter 21 身心健康,/ˈfiːtʃə(r)/
+stature,n.身高，身材；(精神、道德等的)高度,21,Chapter 21 身心健康,/ˈstætʃə(r)/
+flesh,n.肉；人类,21,Chapter 21 身心健康,/fleʃ/
+mankind,n.人类；男人,21,Chapter 21 身心健康,/mænˈkaɪnd/
+human,adj.人类的；奇人性的 n.人类,21,Chapter 21 身心健康,/ˈhjuːmən/
+bone,n.骨；骨髓,21,Chapter 21 身心健康,/bəʊn/
+backbone,n.脊柱；骨干，中坚；骨气,21,Chapter 21 身心健康,/ˈbækbəʊn/
+skeleton,n.骨髓，骨架；框架，梗概,21,Chapter 21 身心健康,/ˈskelɪt(ə)n/
+skull,n，头脑；头骨,21,Chapter 21 身心健康,/skʌl/
+brain,n.脑；［~s］智慧，智力,21,Chapter 21 身心健康,/breɪn/
+mind,n.头脑；思考能力；思维；意见；记忆力,21,Chapter 21 身心健康,/maɪnd/
+physical,adj.身体的；物质的；物理的,21,Chapter 21 身心健康,/ˈfɪzɪk(ə)l/
+mental,adj.精神的，思想上的；智力的,21,Chapter 21 身心健康,/ˈment(ə)l/
+cheek,n.面颊，颊,21,Chapter 21 身心健康,/tʃiːk/
+forehead,n.额,21,Chapter 21 身心健康,/ˈfɔːhed; ˈfɒrɪd/
+brow,n·额；眉，眉毛,21,Chapter 21 身心健康,/braʊ/
+eyelash,n.眼睫毛,21,Chapter 21 身心健康,/ˈaɪlæʃ/
+lip,n.嘴唇；(洞口、伤口等的)边缘,21,Chapter 21 身心健康,/lɪp/
+mouth,n.口，嘴；河口,21,Chapter 21 身心健康,/maʊθ/
+tongue,n.舌头；语言,21,Chapter 21 身心健康,/tʌŋ/
+throat,n. 喉咙;窄路;嗓子，嗓音,21,Chapter 21 身心健康,/θrəʊt/
+gorge,n.咽喉；暴食；山峡，峡谷  v.狼吞虎咽,21,Chapter 21 身心健康,/ɡɔːdʒ/
+chin,n. (指人的)颏，下巴,21,Chapter 21 身心健康,/tʃɪn/
+jaw,n.额；下巴；狭窄入口；唠叨,21,Chapter 21 身心健康,/dʒɔː/
+neck,n.脖子；衣领；海峡,21,Chapter 21 身心健康,/nek/
+beard,n.胡须,21,Chapter 21 身心健康,/bɪəd/
+shoulder,n.肩，肩膀,21,Chapter 21 身心健康,/ˈʃəʊldə(r)/
+limb,n.肢；树枝,21,Chapter 21 身心健康,/lɪm/
+elbow,n.肘部；弯头；扶手  v.用肘挤,21,Chapter 21 身心健康,/ˈelbəʊ/
+wrist,n.腕，腕关节,21,Chapter 21 身心健康,/rɪst/
+thumb,n.拇指,21,Chapter 21 身心健康,/θʌm/
+palm,n.棕榈树；手掌  v.把……藏在手中,21,Chapter 21 身心健康,/pɑːm/
+finger,n. (尤指大拇指之外的)手指,21,Chapter 21 身心健康,/ˈfɪŋɡə(r)/
+fist,n.拳头，拳,21,Chapter 21 身心健康,/fɪst/
+chest,n.胸，胸部,21,Chapter 21 身心健康,/tʃest/
+abdomen,n.腹，腹部,21,Chapter 21 身心健康,/ˈæbdəmən/
+rib,n.肋骨；排骨,21,Chapter 21 身心健康,/rɪb/
+waist,n.腰；腰部,21,Chapter 21 身心健康,/weɪst/
+organ,n.器官；风琴；机构,21,Chapter 21 身心健康,/ˈɔːɡən/
+liver,n.肝脏,21,Chapter 21 身心健康,/ˈlɪvə(r)/
+stomach,n.胃口；胃，腹部,21,Chapter 21 身心健康,/ˈstʌmək/
+womb,n.子宫；发源地,21,Chapter 21 身心健康,/wuːm/
+kidney,n.肾，肾脏,21,Chapter 21 身心健康,/ˈkɪdni/
+lung,n.肺,21,Chapter 21 身心健康,/lʌŋ/
+gland,n.腺,21,Chapter 21 身心健康,/ɡlænd/
+chamber,n. 室，腔；议院  adj.室内的,21,Chapter 21 身心健康,/ˈtʃeɪmbə(r)/
+intestine,n.肠,21,Chapter 21 身心健康,/ɪnˈtestɪn/
+thigh,n.大腿，股,21,Chapter 21 身心健康,/θaɪ/
+joint,n.接合处；关节  adj.共同的，联合的,21,Chapter 21 身心健康,/dʒɔɪnt/
+knee,n.膝盖，膝,21,Chapter 21 身心健康,/niː/
+lap,n.(人坐着时的)大腿部；下摆；环节；一圈,21,Chapter 21 身心健康,/læp/
+ankle,n.裸关节，裸,21,Chapter 21 身心健康,/ˈæŋk(ə)l/
+heel,n.足跟,21,Chapter 21 身心健康,/hiːl/
+toe,n.脚趾，足尖,21,Chapter 21 身心健康,/təʊ/
+muscle,n.肌肉,21,Chapter 21 身心健康,/ˈmʌs(ə)l/
+pore,n.毛孔；小孔，气孔 v.凝视；沉思,21,Chapter 21 身心健康,/pɔː(r)/
+pulse,n.脉博；脉冲,21,Chapter 21 身心健康,/pʌls/
+artery,n.动脉；干线,21,Chapter 21 身心健康,/ˈɑːtəri/
+nerve,n.神经；紧张，焦虑,21,Chapter 21 身心健康,/nɜːv/
+hormone,n. 荷尔蒙，激素,21,Chapter 21 身心健康,/ˈhɔːməʊn/
+immune,adj. 免疫的；不曼影响的；免除的,21,Chapter 21 身心健康,/ɪˈmjuːn/
+stimulus,n. 剌激(物)；促进因素,21,Chapter 21 身心健康,/ˈstɪmjələs/
+biorhythm,n.生物节律,21,Chapter 21 身心健康,/ˈbaɪəʊrɪðəm/
+lifestyle,n. 生活方式,21,Chapter 21 身心健康,/ˈlaɪfstaɪl/
+habit,n. 习惯,21,Chapter 21 身心健康,/ˈhæbɪt/
+sense,n.感官；感觉,21,Chapter 21 身心健康,/sens/
+sight,n.视力；看见；景物,21,Chapter 21 身心健康,/saɪt/
+eyesight,n.视力,21,Chapter 21 身心健康,/ˈaɪsaɪt/
+view,n. 视野；见解；风景；察看,21,Chapter 21 身心健康,/vjuː/
+visual,adj.视力的，视觉的,21,Chapter 21 身心健康,/ˈvɪʒuəl/
+visible,adj. 看得见的，可见的,21,Chapter 21 身心健康,/ˈvɪzəb(ə)l/
+vague,adj. 含糊的；不清楚的，模糊的,21,Chapter 21 身心健康,/veɪɡ/
+blind,adj. 盲目的；瞎的；未察觉的,21,Chapter 21 身心健康,/blaɪnd/
+dumb,adj. 哑的；不肯开口的,21,Chapter 21 身心健康,/dʌm/
+aural,adj. 耳的；听觉的；气味的；先兆的,21,Chapter 21 身心健康,/ˈɔːrəl/
+dental,adj. 牙的，牙科的,21,Chapter 21 身心健康,/ˈdent(ə)l/
+awake,adj. 醒着的；警觉的,21,Chapter 21 身心健康,/əˈweɪk/
+yawn,v. 打呵欠；裂开 n. 呵欠,21,Chapter 21 身心健康,/jɔːn/
+nap,n. 小睡；绒毛,21,Chapter 21 身心健康,/næp/
+doze,v. 小睡，打盹儿,21,Chapter 21 身心健康,/dəʊz/
+quiet,adj. 安静的；寂静的；平静的,21,Chapter 21 身心健康,/ˈkwaɪət/
+asleep,adj. 睡着的；不活跃的；麻木的,21,Chapter 21 身心健康,/əˈsliːp/
+cripple,n. 跛子；残疾人 v. 使跛,21,Chapter 21 身心健康,/ˈkrɪp(ə)l/
+lame,adj. 瘸的，跛的；(解释或借口)无说服力的,21,Chapter 21 身心健康,/leɪm/
+dwarf,n. (童话中的)小矮人；侏儒 adj. 矮小的,21,Chapter 21 身心健康,/dwɔːf/
+pregnancy,n. 怀孕，妊娠,21,Chapter 21 身心健康,/ˈpreɡnənsi/
+born,adj.天生的；与生俱来的 v.[be～]出生,21,Chapter 21 身心健康,/bɔːn/
+condom,n. 避孕套,21,Chapter 21 身心健康,/ˈkɒndɒm/
+clone,v.以无性繁殖技术复制，克隆n克隆动物(或植物),21,Chapter 21 身心健康,/kləʊn/
+symptom,n.征兆;症状,21,Chapter 21 身心健康,/ˈsɪmptəm/
+disease,n.疾病,21,Chapter 21 身心健康,/dɪˈziːz/
+illness,n.病，疾病,21,Chapter 21 身心健康,/ˈɪlnəs/
+moan,v.呻吟;哀悼  n.呻吟声;哀悼声,21,Chapter 21 身心健康,/məʊn/
+infection,n. 传染;传染病;影响,21,Chapter 21 身心健康,/ɪnˈfekʃ(ə)n/
+detriment,n. 损害;损害物,21,Chapter 21 身心健康,/ˈdetrɪmənt/
+heart attack,n.心脏病发作,21,Chapter 21 身心健康,/ˈhɑːt ətæk/
+broken,adj. 弄坏的;破碎的,21,Chapter 21 身心健康,/ˈbrəʊkən/
+disable,v.使丧失能力，使伤残,21,Chapter 21 身心健康,/dɪsˈeɪb(ə)l/
+invalid,n.病弱者，伤残者 adj病弱的，伤残的,21,Chapter 21 身心健康,/ɪnˈvælɪd; ˈɪnvəlɪd/
+patient,n. 病人 adj. 有耐心的，能忍耐的,21,Chapter 21 身心健康,/ˈpeɪʃ(ə)nt/
+dysfunction,n. (身体)功能障碍,21,Chapter 21 身心健康,/dɪsˈfʌŋkʃn/
+diabetes,n.糖尿病,21,Chapter 21 身心健康,/ˌdaɪəˈbiːtiːz/
+obesity,n.(过度)肥胖；肥胖症,21,Chapter 21 身心健康,/əʊˈbiːsəti/
+overweight,adj. 超重的，过胖的 n. 超重 v. 使超重；迫于重视,21,Chapter 21 身心健康,/ˌəʊvəˈweɪt/
+hypertension,n. 高血压,21,Chapter 21 身心健康,/ˌhaɪpəˈtenʃ(ə)n/
+paralyse,v. 使麻痹；使瘫痪；使无助,21,Chapter 21 身心健康,/ˈpærəlaɪz/
+dizzy,adj. 头晕目眩的，眩晕的 v. 使眩晕,21,Chapter 21 身心健康,/ˈdɪzi/
+insane,adj. 患精神病的；疯狂的,21,Chapter 21 身心健康,/ɪnˈseɪn/
+insomnia,n.失眠，失眠症,21,Chapter 21 身心健康,/ɪnˈsɒmniə/
+allergy,n. 敏感症；过敏性,21,Chapter 21 身心健康,/ˈælədʒɪ/
+cancer,n.癌,21,Chapter 21 身心健康,/ˈkænsə(r)/
+arthritis,n. 关节炎,21,Chapter 21 身心健康,/ɑːˈθraɪtɪs/
+pimple,n. 粉刺，丘疹,21,Chapter 21 身心健康,/ˈpɪmpl/
+stroke,n. 中风；击打；一笔｛画｝,21,Chapter 21 身心健康,/strəʊk/
+plague,n. 瘟疫,21,Chapter 21 身心健康,/pleɪɡ/
+flu,n. 流行性感冒,21,Chapter 21 身心健康,/fluː/
+fever,n. 狂热；发烧，发热 v. (使)发烧；｛使)狂热,21,Chapter 21 身心健康,/ˈfiːvə(r)/
+headache,n.头痛,21,Chapter 21 身心健康,/ˈhedeɪk/
+swell,v. 肿胀，膨胀；｛使)增加,21,Chapter 21 身心健康,/swel/
+choke,v. (使)窒息；阻塞；说不出话,21,Chapter 21 身心健康,/tʃəʊk/
+injure,v. 伤害，使遭受损伤；损害,21,Chapter 21 身心健康,/ˈɪndʒə(r)/
+injury,n. 伤害；损害,21,Chapter 21 身心健康,/ˈɪndʒərɪ/
+hurt,v.损害；伤害；｛使｝疼痛,21,Chapter 21 身心健康,/hɜːt/
+bleed,v.流血；榨取；给......放血；放掉｛水或气体｝,21,Chapter 21 身心健康,/bliːd/
+bruise,n. 淤伤；伤痕 v. 擦伤,21,Chapter 21 身心健康,/bruːz/
+scar,n. 疤痕，伤疤,21,Chapter 21 身心健康,/skɑː(r)/
+wound,n. 创伤，伤害；伤口,21,Chapter 21 身心健康,/wuːnd/
+trauma,n. 外伤，身体上的伤；精神创伤；痛苦经历,21,Chapter 21 身心健康,/ˈtrɔːmə/
+lump,n. 块；肿块 v. 使成块状,21,Chapter 21 身心健康,/lʌmp/
+pain,n. 痛苦；疼痛 使痛苦,21,Chapter 21 身心健康,/peɪn/
+death,n.死，死亡；毁灭,21,Chapter 21 身心健康,/deθ/
+mortal,adj. 必死的；致命的 n. 凡人，人类,21,Chapter 21 身心健康,/ˈmɔːt(ə)l/
+demise,n. 死亡；君权的转移或授予，禅让 ，遗赠；转让,21,Chapter 21 身心健康,/dɪˈmaɪz/
+doom,n. 厄运；毁灭 使注定失败(或死亡等),21,Chapter 21 身心健康,/duːm/
+fatal,adi.致命的;毁灭性的;决定性的,21,Chapter 21 身心健康,/ˈfeɪt(ə)l/
+lethal,adj. 致命的,21,Chapter 21 身心健康,/ˈliːθ(ə)l/
+corpus,n.尸体；文集；本金,21,Chapter 21 身心健康,/ˈkɔːpəs/
+overwork,n. 过度操劳；适度工作 v. (使)适度工作,21,Chapter 21 身心健康,/ˌəʊvəˈwɜːk/
+tire,v. (使｝感到疲劳；厌烦,21,Chapter 21 身心健康,/ˈtaɪə(r)/
+exhaust,v. 使筋疲力竭；用完，耗尽,21,Chapter 21 身心健康,/ɪɡˈzɔːst/
+fatigue,n. 疲劳 v. (使｝疲劳,21,Chapter 21 身心健康,/fəˈtiːɡ/
+faint,adj. 模糊的；微弱的；虚弱的 v. 晕倒,21,Chapter 21 身心健康,/feɪnt/
+feeble,adj. 虑弱的，无力的；微弱的,21,Chapter 21 身心健康,/ˈfiːb(ə)l/
+weary,adj. 疲倦的；厌烦的,21,Chapter 21 身心健康,/ˈwɪəri/
+weaken,v. 减弱，削弱；变软弱,21,Chapter 21 身心健康,/ˈwiːkən/
+uncomfortable,adj. 不舒服的；不自在的,21,Chapter 21 身心健康,/ʌnˈkʌmftəb(ə)l/
+unconscious,adj. 失去知觉的；无意识的,21,Chapter 21 身心健康,/ʌnˈkɒnʃəs/
+health care,n. 医疗保健,21,Chapter 21 身心健康,/ˈhelθ keə(r)/
+chronic,adj. 慢性的；长期的,21,Chapter 21 身心健康,/ˈkrɒnɪk/
+acute,adj. (疾病｝急性的；敏锐的，深刻的,21,Chapter 21 身心健康,/əˈkjuːt/
+sore,adj. 疼痛的；恼火的；严重的,21,Chapter 21 身心健康,/sɔː(r)/
+sorrow,n. 悲伤，悲痛,21,Chapter 21 身心健康,/ˈsɒrəʊ/
+suffering,n. 苦难，折磨,21,Chapter 21 身心健康,/ˈsʌfərɪŋ/
+lament,n.悲伤，哀悼 v.哀悼；对......感到悔恨,21,Chapter 21 身心健康,/ləˈment/
+hospital,n. 医院,21,Chapter 21 身心健康,/ˈhɒspɪt(ə)l/
+therapy,n. 治疗,21,Chapter 21 身心健康,/ˈθerəpi/
+sanitary,adj. 卫生的；清洁的,21,Chapter 21 身心健康,/ˈsænət(ə)ri/
+medical,adj. 医学的，医疗的,21,Chapter 21 身心健康,/ˈmedɪk(ə)l/
+curative,adj. 治疗的 n. 药品,21,Chapter 21 身心健康,/ˈkjʊərətɪv/
+hygiene,n. 卫生(学)；保健(学),21,Chapter 21 身心健康,/ˈhaɪdʒiːn/
+fitness,n. 健康；适合,21,Chapter 21 身心健康,/ˈfɪtnəs/
+clinic,n. 诊所；门诊部,21,Chapter 21 身心健康,/ˈklɪnɪk/
+physician,n. 内科医生,21,Chapter 21 身心健康,/fɪˈzɪʃ(ə)n/
+surgeon,n. 外科医生,21,Chapter 21 身心健康,/ˈsɜːdʒən/
+operation,n. 手术；操作；运转，经营,21,Chapter 21 身心健康,/ˌɒpəˈreɪʃ(ə)n/
+cure,v. 治好，治愈 n. 疗法；治疗,21,Chapter 21 身心健康,/kjʊə(r)/
+heal,v. 治愈；愈合,21,Chapter 21 身心健康,/hiːl/
+treatment,n. 治疗，疗法；待遇,21,Chapter 21 身心健康,/ˈtriːtmənt/
+check,v. 检查，核对 n. ［美］账单,21,Chapter 21 身心健康,/tʃek/
+prescription,n. 处方，药方；秘诀,21,Chapter 21 身心健康,/prɪˈskrɪpʃn/
+transplant,v. 移植,21,Chapter 21 身心健康,/trænsˈplɑːnt/
+X-ray,n. 射线；用x射线避行的临床检查 v. x射线检查,21,Chapter 21 身心健康,/ˈeks reɪ/
+injection,n. 注射；注射物；单射｛函数｝,21,Chapter 21 身心健康,/ɪnˈdʒekʃ(ə)n/
+precaution,n. 预防，警惕；预防措施,21,Chapter 21 身心健康,/prɪˈkɔːʃ(ə)n/
+vaccinate,v. 给......接种疫苗，预防接种,21,Chapter 21 身心健康,/ˈvæksɪneɪt/
+quarantine,v. 对......避行隔离检疫；n. 检疫；隔离检疫期,21,Chapter 21 身心健康,/ˈkwɒrəntiːn/
+segregate,v. 隔离,21,Chapter 21 身心健康,/ˈseɡrɪɡeɪt/
+isolate,v.使隔离，使孤立，使脱离,21,Chapter 21 身心健康,/ˈaɪsəleɪt/
+pharmacy,n. 药店；药剂学,21,Chapter 21 身心健康,/ˈfɑːməsi/
+medicine,n. 药；医学,21,Chapter 21 身心健康,/ˈmedsn; ˈmedɪsn/
+remedy,n.药物，治疗法；解决方法,21,Chapter 21 身心健康,/ˈremədi/
+drug,n.毒品；药,21,Chapter 21 身心健康,/drʌɡ/
+pill,n.药丸，丸剂,21,Chapter 21 身心健康,/pɪl/
+antibiotic,n.抗生素,21,Chapter 21 身心健康,/ˌæntibaɪˈɒtɪk/
+acupuncture,n.针灸，中医针灸疗法,21,Chapter 21 身心健康,/ˈækjupʌŋktʃə(r)/
+penicillin,n.青霉素,21,Chapter 21 身心健康,/ˌpenɪˈsɪlɪn/
+morphine,n.吗啡,21,Chapter 21 身心健康,/ˈmɔːfiːn/
+dose,n.(药物的)一剂v.给......服药,21,Chapter 21 身心健康,/dəʊs/
+recovery,n.恢复，痊愈,21,Chapter 21 身心健康,/rɪˈkʌvəri/
+refresh,v.使恢复精神,21,Chapter 21 身心健康,/rɪˈfreʃ/
+relief,n.宽慰，轻松；减轻，缓解,21,Chapter 21 身心健康,/rɪˈliːf/
+relieve,v.救济；减轻，解除(痛苦、不快等),21,Chapter 21 身心健康,/rɪˈliːv/
+alleviate,v.减轻(痛苦等)，缓解,21,Chapter 21 身心健康,/əˈliːvieɪt/
+resume,v.重新开始，(中断后)继续,21,Chapter 21 身心健康,/rɪˈzjuːm/
+ease,v.减轻，放松，缓和n.容易；悠闲,21,Chapter 21 身心健康,/iːz/
+relax,v.放松,21,Chapter 21 身心健康,/rɪˈlæks/
+normal,adj.正常的；正规的，规范的,21,Chapter 21 身心健康,/ˈnɔːm(ə)l/
+common,adj.共同的；普通的，平常的,21,Chapter 21 身心健康,/ˈkɒmən/
+usual,adj.通常的，惯常的,21,Chapter 21 身心健康,/ˈjuːʒuəl/
+optimistic,adj.乐观的，乐观主义的,21,Chapter 21 身心健康,/ˌɒptɪˈmɪstɪk/
+pessimistic,adj.悲观的，悲观主义的,21,Chapter 21 身心健康,/ˌpesɪˈmɪstɪk/
+positive,adj.肯定的；积极的；绝对的,21,Chapter 21 身心健康,/ˈpɒzətɪv/
+negative,adj.怀疑的；消极的,21,Chapter 21 身心健康,/ˈneɡətɪv/
+passive,adj.被动的，消极的,21,Chapter 21 身心健康,/ˈpæsɪv/
+enthusiastic,adj.热心的，热情的,21,Chapter 21 身心健康,/ɪnˌθjuːziˈæstɪk/
+indifferent,adj.漠不关心的；无关紧要的；平庸的；中立的,21,Chapter 21 身心健康,/ɪnˈdɪfrənt/
+apathetic,adj.无动于衷的，漠不关心的,21,Chapter 21 身心健康,/ˌæpəˈθetɪk/
+negligible,adj.可以忽略的，微不足道的,21,Chapter 21 身心健康,/ˈneɡlɪdʒəb(ə)l/
+happiness,n.幸福，快乐；适当,21,Chapter 21 身心健康,/ˈhæpinəs/
+delight,v.(使)高兴；爱好n.乐趣,21,Chapter 21 身心健康,/dɪˈlaɪt/
+merry,adj.愉快的，欢乐的；微醉的,21,Chapter 21 身心健康,/ˈmeri/
+fun,n.乐趣；玩笑adj.有趣的,21,Chapter 21 身心健康,/fʌn/
+joke,n.笑话；玩笑v.说笑话；开玩笑,21,Chapter 21 身心健康,/dʒəʊk/
+laughter,n. 笑，笑声,21,Chapter 21 身心健康,/ˈlɑːftə(r)/
+joy,n.欢乐，喜悦；乐趣,21,Chapter 21 身心健康,/dʒɔɪ/
+please,v.使高兴，取悦  adv.请,21,Chapter 21 身心健康,/pliːz/
+rejoice,v.(使)高兴，(使)欢喜,21,Chapter 21 身心健康,/rɪˈdʒɔɪs/
+thrill,n.激动v.(使)激动；感到紧张,21,Chapter 21 身心健康,/θrɪl/
+cheer,v.使振作；(向……)欢呼,21,Chapter 21 身心健康,/tʃɪə(r)/
+pleasure,n.愉快，高兴；荣幸(用于回答对方的感谢),21,Chapter 21 身心健康,/ˈpleʒə(r)/
+agreeable,adj.使人愉快的；(欣然)同意的,21,Chapter 21 身心健康,/əˈɡriːəb(ə)l/
+exhilarate,v.使高兴，使兴奋,21,Chapter 21 身心健康,/ɪɡˈzɪləreɪt/
+satisfactory,adj.令人满意的,21,Chapter 21 身心健康,/ˌsætɪsˈfæktəri/
+desirable,"adj,可取的，值得拥有的，合意的",21,Chapter 21 身心健康,/dɪˈzaɪərəb(ə)l/
+exciting,adj.令人兴奋的，使人激动的,21,Chapter 21 身心健康,/ɪkˈsaɪtɪŋ/
+keen,adj.强烈的；敏锐的；渴望的；［尤英］有强烈兴趣的,21,Chapter 21 身心健康,/kiːn/
+zeal,n.热心，热情，热忱,21,Chapter 21 身心健康,/ziːl/
+lively,adj.活泼的；活跃的；栩栩如生的,21,Chapter 21 身心健康,/ˈlaɪvli/
+lovely,adj.可爱的；令人愉快的,21,Chapter 21 身心健康,/ˈlʌvli/
+fond,adj.喜爱的；溺爱的,21,Chapter 21 身心健康,/fɒnd/
+favour,n.偏爱；赞同；恩惠，帮助 (=favor) ,21,Chapter 21 身心健康,/ˈfeɪvə(r)/
+surprising,adj.令人惊讶的，岀人意料的,21,Chapter 21 身心健康,/səˈpraɪzɪŋ/
+startle,v.使大吃一惊n.吃惊,21,Chapter 21 身心健康,/ˈstɑːt(ə)l/
+amazing,adj.令人惊叹的，惊人的,21,Chapter 21 身心健康,/əˈmeɪzɪŋ/
+astound,v.使大吃一惊，使惊骇,21,Chapter 21 身心健康,/əˈstaʊnd/
+hectic,adj.兴奋活跃的，忙乱的，繁忙的,21,Chapter 21 身心健康,/ˈhektɪk/
+liberal,adj.慷慨的，大方的；自由主义的,21,Chapter 21 身心健康,/ˈlɪbərəl/
+generous,adj.慷慨的；宽厚的,21,Chapter 21 身心健康,/ˈdʒenərəs/
+gentle,adj.温和的；柔和的；文雅的；出身名门的,21,Chapter 21 身心健康,/ˈdʒent(ə)l/
+humble,adj.谦虚的；卑微的,21,Chapter 21 身心健康,/ˈhʌmb(ə)l/
+modest,adj.谦虚的，谦逊的,21,Chapter 21 身心健康,/ˈmɒdɪst/
+humorous,adj.富于幽默感的，诙谐的,21,Chapter 21 身心健康,/ˈhjuːmərəs/
+polite,adj.有礼貌的；客气的,21,Chapter 21 身心健康,/pəˈlaɪt/
+frank,adj.坦白的，直率的,21,Chapter 21 身心健康,/fræŋk/
+mysterious,adj.神秘的；不可思议的,21,Chapter 21 身心健康,/mɪˈstɪəriəs/
+curious,adj.好奇的，好求知的,21,Chapter 21 身心健康,/ˈkjʊəriəs/
+daring,adj.勇敢的，大胆的,21,Chapter 21 身心健康,/ˈdeərɪŋ/
+manly,adj.有男子气概的；果断的,21,Chapter 21 身心健康,/ˈmænli/
+direct,adj.直接的；直率的,21,Chapter 21 身心健康,/dəˈrekt/
+earnest,adj.认真的，诚恳的,21,Chapter 21 身心健康,/ˈɜːnɪst/
+rational,adj.理性的；合理的,21,Chapter 21 身心健康,/ˈræʃ(ə)nəl/
+honesty,n.诚实，正直,21,Chapter 21 身心健康,/ˈɒnəsti/
+proud,adj.骄傲的，自豪的；令人自豪的,21,Chapter 21 身心健康,/praʊd/
+seriously,adv.严肃地；认真地；严重地,21,Chapter 21 身心健康,/ˈsɪəriəsli/
+stern,adj. 严厉的；坚定的,21,Chapter 21 身心健康,/stɜːn/
+friendly,adj.友好的，友善的,21,Chapter 21 身心健康,/ˈfrendli/
+hospitable,adj.好客的；热情友好的,21,Chapter 21 身心健康,/hɒˈspɪtəb(ə)l/
+romantic,adj.浪漫的；充满传奇色彩的,21,Chapter 21 身心健康,/rəʊˈmæntɪk/
+freedom,n.自由，独立自主,21,Chapter 21 身心健康,/ˈfriːdəm/
+careful,adj.仔细的，细致的；小心的，谨慎的,21,Chapter 21 身心健康,/ˈkeəf(ə)l/
+concern,n.关心；忧虑v.涉及；使担忧；关心,21,Chapter 21 身心健康,/kənˈsɜːn/
+confidence,n.自信；信任,21,Chapter 21 身心健康,/ˈkɒnfɪdəns/
+considerate,adj.考虑周到的，体谅的,21,Chapter 21 身心健康,/kənˈsɪdərət/
+thoughtful,adj.认真思考的；考虑周到的，体贴的,21,Chapter 21 身心健康,/ˈθɔːtf(ə)l/
+sympathetic,adj.同情的；和谐的,21,Chapter 21 身心健康,/ˌsɪmpəˈθetɪk/
+ready,adj.准备好的；愿意的,21,Chapter 21 身心健康,/ˈredi/
+apologise,(=apologize) v.道歉，赔罪,21,Chapter 21 身心健康,/əˈpɒlədʒaɪz/
+apology,n.道歉；辩解,21,Chapter 21 身心健康,/əˈpɒlədʒi/
+mercy,n.仁慈，宽容，怜悯,21,Chapter 21 身心健康,/ˈmɜːsi/
+admire,v.赞美，钦佩，仰慕,21,Chapter 21 身心健康,/ədˈmaɪə(r)/
+remarkable,adj.值得注意的；非凡的，卓越的,21,Chapter 21 身心健康,/rɪˈmɑːkəb(ə)l/
+grateful,adj.感激的；表示感激的,21,Chapter 21 身心健康,/ˈɡreɪtf(ə)l/
+gratitude,n.感激，感谢，感恩,21,Chapter 21 身心健康,/ˈɡrætɪtjuːd/
+eager,adj.渴望的，热切的,21,Chapter 21 身心健康,/ˈiːɡə(r)/
+sound,adj.健全的；(睡眠)酣畅的；合理的n.声音v.发出声音；听起来,21,Chapter 21 身心健康,/saʊnd/
+picturesque,adj.如画的；独特的,21,Chapter 21 身心健康,/ˌpɪktʃəˈresk/
+promising,adj.大有希望的，有前途的,21,Chapter 21 身心健康,/ˈprɒmɪsɪŋ/
+prominent,adj.突出的，显著的；重要的，杰出的,21,Chapter 21 身心健康,/ˈprɒmɪnənt/
+awesome,adj.卓越的，引起敬畏的,21,Chapter 21 身心健康,/ˈɔːsəm/
+arduous,adj.辛勤的；费力的；陡峭的,21,Chapter 21 身心健康,/ˈɑːdʒuəs/
+tough,adj.艰难的；坚强的，坚韧不拔的；强硬的,21,Chapter 21 身心健康,/tʌf/
+robust,adj.强壮的，强健的,21,Chapter 21 身心健康,/rəʊˈbʌst/
+sturdy,adj.强健的；坚定的,21,Chapter 21 身心健康,/ˈstɜːdi/
+steadfast,adj.坚定的,21,Chapter 21 身心健康,/ˈstedfɑːst/
+tender,adj.脆弱的；温柔的；软弱的；疼痛的v.(正式)提出；投标,21,Chapter 21 身心健康,/ˈtendə(r)/
+temperate,adj.(气候)温和的；温带的；有节制的；心平气和的,21,Chapter 21 身心健康,/ˈtempərət/
+delicate,adj.精致的；微妙的；脆弱的,21,Chapter 21 身心健康,/ˈdelɪkət/
+mundane,adj.平凡的，世俗的；世界的,21,Chapter 21 身心健康,/mʌnˈdeɪn/
+naive,adj.天真的；幼稚的,21,Chapter 21 身心健康,/naɪˈiːv/
+childish,adj.孩子般的；幼稚的,21,Chapter 21 身心健康,/ˈtʃaɪldɪʃ/
+sincere,adj.真诚的，诚挚的,21,Chapter 21 身心健康,/sɪnˈsɪə(r)/
+liable,adj.有责任的；有……倾向的，可能的,21,Chapter 21 身心健康,/ˈlaɪəb(ə)l/
+trustworthy,adj.值得信赖的，可靠的,21,Chapter 21 身心健康,/ˈtrʌstwɜːði/
+enterprising,adj.有事业心的，有进取心的；有魄力的,21,Chapter 21 身心健康,/ˈentəpraɪzɪŋ/
+sane,adj.心智健全的；理智的,21,Chapter 21 身心健康,/seɪn/
+strenuous,adj.发奋的；繁重的，艰苦的,21,Chapter 21 身心健康,/ˈstrenjuəs/
+frown,n.皱眉，不悦  v.皱眉，表示不悦,21,Chapter 21 身心健康,/fraʊn/
+rage,n.盛怒，狂怒,21,Chapter 21 身心健康,/reɪdʒ/
+wretched,adj.不幸的，可怜的，悲惨的；恶劣的,21,Chapter 21 身心健康,/ˈretʃɪd/
+frustrating,adj.令人灰心的，使人沮丧的,21,Chapter 21 身心健康,/frʌˈstreɪtɪŋ/
+mourn,v.(因失去……而)哀痛，哀悼,21,Chapter 21 身心健康,/mɔːn/
+anger,n.怒，怒气  v.使发怒,21,Chapter 21 身心健康,/ˈæŋɡə(r)/
+furious,adj.狂怒的，暴怒的,21,Chapter 21 身心健康,/ˈfjʊəriəs/
+irritate,v.激怒，使急躁；刺激,21,Chapter 21 身心健康,/ˈɪrɪteɪt/
+hate,v.恨，憎恨不喜欢,21,Chapter 21 身心健康,/heɪt/
+hatred,n.憎恶，憎恨，仇恨,21,Chapter 21 身心健康,/ˈheɪtrɪd/
+nuisance,n.讨厌或麻烦的人(或事物),21,Chapter 21 身心健康,/ˈnjuːsns/
+disgust,v.使厌恶，使作呕n.厌恶，嫌恶,21,Chapter 21 身心健康,/dɪsˈɡʌst/
+vex,v.使烦恼，使恼火,21,Chapter 21 身心健康,/veks/
+harass,v.烦扰,21,Chapter 21 身心健康,/ˈhærəs/
+bore,v.烦扰；钻孔n.讨厌的人；令人生厌的事,21,Chapter 21 身心健康,/bɔː(r)/
+bother,v.花费时间精力(做某事)；(使)苦恼n.麻烦，困难,21,Chapter 21 身心健康,/ˈbɒðə(r)/
+troublesome,adj.令人烦恼的；麻烦的,21,Chapter 21 身心健康,/ˈtrʌb(ə)lsəm/
+awful,adj.令人不愉快的，极讨厌的,21,Chapter 21 身心健康,/ˈɔːf(ə)l/
+unpleasant,adj.令人不愉快的，讨厌的,21,Chapter 21 身心健康,/ʌnˈplez(ə)nt/
+adverse,adj.敌对的，不友好的∶不利的,21,Chapter 21 身心健康,/ˈædvɜːs/
+hostile,adj.怀有敌意的，不友善的；敌对的,21,Chapter 21 身心健康,/ˈhɒstaɪl/
+indignant,adj.愤慨的，义愤的,21,Chapter 21 身心健康,/ɪnˈdɪɡnənt/
+radical,adj.激进的；根本的,21,Chapter 21 身心健康,/ˈrædɪk(ə)l/
+mad,adj.发疯的；恼火的,21,Chapter 21 身心健康,/mæd/
+crazy,adj.疯狂的；荒唐的,21,Chapter 21 身心健康,/ˈkreɪzi/
+wicked,adj.邪恶的，缺德的,21,Chapter 21 身心健康,/ˈwɪkɪd/
+vicious,adj.邪恶的，不道德的,21,Chapter 21 身心健康,/ˈvɪʃəs/
+vulgar,adj.粗俗的，庸俗的,21,Chapter 21 身心健康,/ˈvʌlɡə(r)/
+restless,adj.不安定的，焦躁不安的，不耐烦的,21,Chapter 21 身心健康,/ˈrestləs/
+ego,n.自我，自尊；自负,21,Chapter 21 身心健康,/ˈiːɡəʊ/
+selfish,adj.自私的，利己主义的,21,Chapter 21 身心健康,/ˈselfɪʃ/
+nasty,adj.下流的；肮脏的；险恶的,21,Chapter 21 身心健康,/ˈnɑːsti/
+rash,adj.草率的，鲁莽的,21,Chapter 21 身心健康,/ræʃ/
+volatile,adj.易变的，反复无常的；易挥发的,21,Chapter 21 身心健康,/ˈvɒlətaɪl/
+weird,adj.怪诞的，古怪的,21,Chapter 21 身心健康,/wɪəd/
+excessive,adj.过分的，过多的,21,Chapter 21 身心健康,/ɪkˈsesɪv; ekˈsesɪv/
+anxiety,n.焦虑，担心；渴望,21,Chapter 21 身心健康,/æŋˈzaɪəti/
+uneasy,adj.心神不安的，忧虑的,21,Chapter 21 身心健康,/ʌnˈiːzi/
+fear,n.害怕；担心,21,Chapter 21 身心健康,/fɪə(r)/
+timid,adj.胆小的，羞怯的,21,Chapter 21 身心健康,/ˈtɪmɪd/
+fuss,n.大惊小怪，无谓的纷扰,21,Chapter 21 身心健康,/fʌs/
+insult,v.侮辱，凌辱  n.侮辱，凌辱,21,Chapter 21 身心健康,/ɪnˈsʌlt; ˈɪnsʌlt/
+unkind,adj.不仁慈的，不和善的，刻薄的,21,Chapter 21 身心健康,/ˌʌnˈkaɪnd/
+envy,v.羡慕；嫉妒  n.羡慕；嫉妒,21,Chapter 21 身心健康,/ˈenvi/
+jealous,adj.嫉妒的，妒忌的,21,Chapter 21 身心健康,/ˈdʒeləs/
+doubt,n.怀疑，疑问 v.怀疑，不信,21,Chapter 21 身心健康,/daʊt/
+suspicion,n.怀疑，嫌疑,21,Chapter 21 身心健康,/səˈspɪʃ(ə)n/
+sceptical,adj.怀疑的 (=skeptical),21,Chapter 21 身心健康,/ˈskeptɪk(ə)l/
+unsatisfactory,adj.不能令人满意的，不符合要求的，不足的,21,Chapter 21 身心健康,/ˌʌnˌsætɪsˈfæktəri/
+unstable,adj.不稳定的；易变的；不牢固的,21,Chapter 21 身心健康,/ʌnˈsteɪb(ə)l/
+unsuitable,adj.不合适的，不适宜的,21,Chapter 21 身心健康,/ʌnˈsuːtəbl; ʌnˈsjuːtəbl/
+unwilling,adj.不愿意的，不情愿的；勉强的,21,Chapter 21 身心健康,/ʌnˈwɪlɪŋ/
+reluctant,adj.不情愿的；勉强的,21,Chapter 21 身心健康,/rɪˈlʌktənt/
+hesitate,v.犹豫不决，踌躇；顾虑,21,Chapter 21 身心健康,/ˈhezɪteɪt/
+confuse,v.使困惑，把(某人)弄糊涂混淆,21,Chapter 21 身心健康,/kənˈfjuːz/
+guilty,adj.有罪的；内疚的,21,Chapter 21 身心健康,/ˈɡɪlti/
+embarrass,v.使尴尬，使窘迫，使局促不安,21,Chapter 21 身心健康,/ɪmˈbærəs/
+regret,n.遗憾；抱歉；悲叹 v.后悔痛惜，惋惜,21,Chapter 21 身心健康,/rɪˈɡret/
+repent,v.忏悔；后悔,21,Chapter 21 身心健康,/rɪˈpent/
+ashamed,adj.惭愧的，感到难为情的；耻于……的,21,Chapter 21 身心健康,/əˈʃeɪmd/
+sigh,n.叹息，叹气  v.叹息，叹气,21,Chapter 21 身心健康,/saɪ/
+weep,v.哭泣，流泪哀悼  n.哭泣,21,Chapter 21 身心健康,/wiːp/
+tolerance,n.忍受，容忍，宽容,21,Chapter 21 身心健康,/ˈtɒlərəns/
+ignorant,adj.无知的，没有学识的，愚昧的,21,Chapter 21 身心健康,/ˈɪɡnərənt/
+endure,v.忍耐，忍受；持久,21,Chapter 21 身心健康,/ɪnˈdjʊə(r)/
+sly,adj.狡猾的，狡诈的,21,Chapter 21 身心健康,/slaɪ/
+cunning,n.狡猾的；巧妙的,21,Chapter 21 身心健康,/ˈkʌnɪŋ/
+arbitrary,adj.武断的，专断的；任意的,21,Chapter 21 身心健康,/ˈɑːbɪtrəri/
+ridiculous,adj.荒谬的，可笑的,21,Chapter 21 身心健康,/rɪˈdɪkjələs/
+stupid,adj.愚蠢的；麻木的；乏味的n.傻瓜，笨蛋,21,Chapter 21 身心健康,/ˈstjuːpɪd/
+awkward,adj.笨拙的；尴尬的；棘手的；不合适的,21,Chapter 21 身心健康,/ˈɔːkwəd/
+clumsy,adj.笨拙的,21,Chapter 21 身心健康,/ˈklʌmzi/
+careless,adj.粗心的；无忧无虑的；淡漠的,21,Chapter 21 身心健康,/ˈkeələs/
+oblivious,adj.不知道的，未注意的,21,Chapter 21 身心健康,/əˈblɪviəs/
+naughty,adj.淘气的，顽皮的,21,Chapter 21 身心健康,/ˈnɔːti/
+greedy,adj.贪吃的；贪婪的,21,Chapter 21 身心健康,/ˈɡriːdi/
+obtrusive,adj.过分炫耀的，过分突出的，扎眼的,21,Chapter 21 身心健康,/əbˈtruːsɪv/
+slothful,adj.偷懒的，懒散的,21,Chapter 21 身心健康,/ˈsləʊθf(ə)l/
+sluggish,adj.行动迟缓的,21,Chapter 21 身心健康,/ˈslʌɡɪʃ/
+impulse,n.冲动，心血来潮,21,Chapter 21 身心健康,/ˈɪmpʌls/
+rigid,adj.固执的；严格的；刚硬的,21,Chapter 21 身心健康,/ˈrɪdʒɪd/
+stubborn,adj.顽固的，固执的,21,Chapter 21 身心健康,/ˈstʌbən/
+stereotype,n.老一套，模式化观念，刻板印象,21,Chapter 21 身心健康,/ˈsteriətaɪp/
